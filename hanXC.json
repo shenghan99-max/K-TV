@@ -30,12 +30,11 @@
 {"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc           https://try.gogs.io/NB666/api/raw/main/config.bin  
 
-
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/qm/{cateId}-{catePg}.html","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},
-
-{"key":"西瓜","name": "西瓜影院","type": 3,"jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar","api": "csp_Huban"},
+{"key":"西瓜","name":"西瓜影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.xiguazx.cc/index.php/vod/type/id/{cateId}.html","分类": "国产剧$38#电视剧$37#电影$20#综艺$45#动漫$43"}},
 //www.xiguadh.com ｜ 域名速记：西瓜导航
+	
 {"key":"追光","name":"追光影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://zg01.inavs.cn/vodshow/{cateId}--------{catePg}---.html","分类": "国产剧$38#电视剧$37#电影$20#综艺$45#动漫$43"}},
 //追光影院https://www.4kmovie.site/
 {"key": "花树","name": "花树影院","type": 3,"api": "https://5282.kstore.space/py/p2.py"},
@@ -113,8 +112,9 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","动画片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 // https://caiji.dyttzyapi.com/                dyttzy1.tv dyttzy2.tv dyttzy3.tv dyttzy4.tv dyttzy5.tv 
 
-{"key":"天涯","name":"天涯影院","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://ty.tyyszy5.com/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"短剧$54#电影$1#电视剧$2#综艺$4#动漫$3"}}, 	
-//https://tyyszy.com/    https://tyyszyapi.com/api.php/provide/vod/?ac=list     
+//天涯资源https://tyyszy.com/    https://tyyszyapi.com/api.php/provide/vod/?ac=list     
+{"key": "天涯资源","name": "天涯影院","type": 1,"api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
+	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
 
 {"key": "非凡资源","name": "非凡影院","type": 1,"api": "http://ffzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
@@ -131,7 +131,7 @@
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url= 
 
 {"key":"特狗","name":"特狗影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tegou.me/vodtype/{cateId}-{catePg}.html","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}},
-//追光影院https://www.4kmovie.site/    https://tegouys.com/
+//追光影院https://www.4kmovie.site/    特狗影视https://tegouys.com/
 	
 {"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bili","name":"哔哩哔哩","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/bili.js"},
