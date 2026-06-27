@@ -26,10 +26,7 @@
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.nrnnnr.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},	
 {"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/jinli/{cateId}-{catePg}.html","分类": "短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 
-{"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-----------.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
-{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
-//https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc       
-	
+
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/qm/{cateId}-{catePg}.html","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},
 {"key":"西瓜","name":"西瓜影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.xiguazx.cc/index.php/vod/type/id/{cateId}.html","分类": "国产剧$38#电视剧$37#电影$20#综艺$45#动漫$43"}},
@@ -137,7 +134,10 @@
 {"key":"腾讯","name":"腾讯","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/tx.js"},
 {"key":"搜狗","name":"搜狗","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/sg.js"},
 {"key":"MGTV","name":"芒果","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/mgtv.js"},
-
+{"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-----------.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
+{"key":"iysdq2","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
+//https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc       
+	
 {"key":"zhuijuwu","name":"追剧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
