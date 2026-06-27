@@ -25,26 +25,22 @@
 
 {"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.nrnnnr.com/search.php?page={catePg}&searchtype=5&tid={cateId}","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},	
+{"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/jinli/{cateId}-{catePg}.html","分类": "#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 
-{"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
 //https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc           https://try.gogs.io/NB666/api/raw/main/config.bin  
 
-{"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/jinli/{cateId}-{catePg}.html","分类": "#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
-
-{"key":"大全","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq.cc/vodshow/{cateId}---{area}-----{catePg}---.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 	
-//https://www.iysdq.net/       https://www.iysdq.com	https://www.iysdq.cc           https://try.gogs.io/NB666/api/raw/main/config.bin  
 
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/qm/{cateId}-{catePg}.html","分类":"国产剧$5#短剧$13#电影$2#电视剧$1#综艺$3#动漫$4"}},
 
 {"key":"西瓜","name": "西瓜影院","type": 3,"jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar","api": "csp_Huban"},
 //www.xiguadh.com ｜ 域名速记：西瓜导航
-
+{"key":"追光","name":"追光影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://zg01.inavs.cn/vodshow/{cateId}--------{catePg}---.html","分类": "国产剧$38#电视剧$37#电影$20#综艺$45#动漫$43"}},
 //追光影院https://www.4kmovie.site/
-
-	
+{"key": "花树","name": "花树影院","type": 3,"api": "https://5282.kstore.space/py/p2.py"},
+{"key": "瓜子","name": "瓜子影院","type": 3,"api": "https://5282.kstore.space/py/p3.py"},	
 {"key":"可可","name":"可可","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.keke1.app/show/{cateId}-----3-{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}}, 	
 
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
@@ -135,6 +131,9 @@
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url= 
 
+{"key":"特狗","name":"特狗影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.tegou.me/vodtype/{cateId}-{catePg}.html","分类": "电影$1#电视剧$2#动漫$3#综艺$4"}},
+//追光影院https://www.4kmovie.site/    https://tegouys.com/
+	
 {"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bili","name":"哔哩哔哩","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/bili.js"},
 {"key":"爱奇艺","name":"爱奇艺","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/aqy.js"},
