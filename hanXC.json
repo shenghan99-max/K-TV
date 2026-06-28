@@ -2,8 +2,8 @@
 
 {
 
-"spider":"https://github.catvod.com/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/jar/xbpq.jar",
-	//"spider":"https://ghproxy.net/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar",
+//"spider":"https://github.catvod.com/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/jar/xbpq.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar",
 //"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
 "lives": [{"name": "live","type": 0,"url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt;http://rihou.cc:555/gggg.nzk/
@@ -65,10 +65,7 @@
 {"key": "jieys","name": "界影视","type": 3,"api": "https://github.catvod.com/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 
 {"key": "永乐影视","name": "永乐影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://www.ylys.tv/vodshow/{cateId}--------{catePg}---/","分类": "国产剧$13#电视剧$2#电影$1#综艺$3#动漫$4"}},	
-
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
-{"key":"热播","name":"热播影视2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://v.rbotv.cn/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 
 //{"key":"红果短剧","name":"红果短剧","type": 3,"api": "./lib/红果短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 //{"key":"甜圈短剧","name":"甜圈短剧","type": 3,"api": "./lib/甜圈短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
