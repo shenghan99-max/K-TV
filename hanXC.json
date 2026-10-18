@@ -64,29 +64,6 @@
 
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
-{"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
-
-{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#大陆综艺$23#短剧$20#动漫$4"}},	
-//{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
-//http://www.88tvs.org/	
-	        	
-//{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
-//易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
-{"key": "瓜子影视","name": "瓜子影视","type": 3,"api": "https://5282.kstore.space/py/p2.py","hide": 1},
-{"key": "佚名影视","name": "佚名影视","type": 3,"api": "https://5282.kstore.space/py/p3.py","hide": 1},
-{"key": "多多影视","name": "多多影视","type": 3,"api": "https://5282.kstore.space/py/p4.py","hide": 1},
-//多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       呱呱开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
- {"key": "西瓜影视","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
- {"key": "观观影视","name": "观观影视","type": 3,"api": "https://5282.kstore.space/js/s4.js","hide": 1},
-
-
-//{"key":"红果短剧","name":"红果短剧","type": 3,"api": "./lib/红果短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-//{"key":"甜圈短剧","name":"甜圈短剧","type": 3,"api": "./lib/甜圈短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-{"key":"河马短剧","name":"河马短剧","type": 3,"api": "./lib/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-
-{"key": "dj","name": "七猫短剧","type": 3,"api": "https://5282.kstore.space/js/duanju.js","danmaku": 0,"hide": 1},
-
 
 {"key": "魔都资源","name": "魔都影院","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作","喜剧","网络电影","恐怖","惊悚","爱情","剧情","战争","冒险","韩国剧","台湾剧剧","日本剧","欧美剧","泰国剧","日本动漫","欧美动漫","港台综艺","日韩综艺","欧美综艺"]},
