@@ -41,13 +41,6 @@
  {"name" : "🎬星星短剧","key" : "Xydj","type" : 3,"api" : "csp_XydjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
       "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 
-    {"key" : "csp_Kugou","name" : "🐶酷狗","type" : 3,"api" : "csp_Kugou","playerType" : 2,
-      "ext" : {"classes" : [ {"type_name" : "酷狗","type_id" : "kugou"}]}},
-
-
-
-//https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
-
 {"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
@@ -58,24 +51,12 @@
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
-{"key":"Wwys","name":"旺旺影视","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},	
-
-//{"key":"baibai","name":"素白影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
-//{"key":"素白白","name":"素白白","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-//	"ext":{"简介": "剧情介绍:+yp_context\">&&</div>","线路数组": "javascript:void(0);\">&&</a>","播放数组": "paly_list_btn\">&&</div>","分类url": "https://www.subaibai.com/{cateId}/page/{catePg}[https://www.subaibai.com/{cateId}]","分类": "电视剧$tv-drama#国产剧$domestic-drama#电影$new-movie#热门电影$hot-month#高分电影$high-movie#欧美剧$american-drama#日韩剧$korean-drama#动漫电影$cartoon-movie#香港电影$cartoon-movie#动漫剧$anime-drama"}},
-//https://subaibai.vip/  
- 
-{"key": "jieys","name": "界影视","type": 3,"api": "https://raw.bgithub.xyz/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
-
+{"key": "jieys","name": "界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 
-
-{"key": "jieys","name": "界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
-
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 		
-
 {"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
     "ext":{"主页url":"https://www.kkys14.com/","分类url":"/channel/{cateId}-----3-{catePg}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
     "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
@@ -96,6 +77,7 @@
     "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
     "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
 
+//https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
 {"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
