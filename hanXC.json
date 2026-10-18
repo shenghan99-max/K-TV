@@ -16,33 +16,23 @@
 "sites":[
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-
-
+{"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "西瓜","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
+{"key":" 柚子","name": "柚子影视","type": 3,"api" : "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
+{"key": "观观","name": "观观影视","type": 3,"api": "https://5282.kstore.space/js/s4.js","hide": 1},
+{"key": "瓜子","name": "瓜子影视","type": 3,"api": "https://5282.kstore.space/py/p2.py","hide": 1},
+{"key": "佚名","name": "佚名影视","type": 3,"api": "https://5282.kstore.space/py/p3.py","hide": 1},
+{"key": "多多影视","name": "多多影视","type": 3,"api": "https://5282.kstore.space/py/p4.py","hide": 1},
+//多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
+{"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
+		
 {"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
 
 {"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$2#电影$1#大陆综艺$22#综艺$3#动漫$4"}},
+
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq1.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
-	
 //https://www.iysdq.me/   
-{"key":"雨见视频","name": "雨见蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-        "ext": {"影片类型": "类型：&&</li>","简介": "简介：&&</div>","分类url":"http://yjsp.mxys8.com/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类": "国产剧$13#电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
-//米    http://yj.appss.cc   	////https://try.gogs.io/NB666/api/raw/main/config.bin           http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html
 
-   {"key" : "农民","name" : "👩‍🌾农民","type" : 3,"api" : "csp_XYQHiker","searchable" : 1,"quickSearch" : 1,"filterable" : 1,
-      "ext" : "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/农民影视.json"},
-    {"name" : "🍊柚子","key" : "AppV7Xyz","type" : 3,"api" : "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
-
-    {"name" : "🎬拜拜短剧","key" : "Bddj","type" : 3,"api" : "csp_BddjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
-    {"name" : "🎬围观短剧","key" : "Wgdj","type" : 3,"api" : "csp_WgdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
-      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
-    {"name" : "🎬喵喵短剧","key" : "Qmdj","type" : 3,"api" : "csp_QmdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
-      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
-
- {"name" : "🎬星星短剧","key" : "Xydj","type" : 3,"api" : "csp_XydjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
-      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
-
-{"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 //https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
@@ -55,27 +45,6 @@
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 
-{"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
-		
-{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext":{"主页url":"https://www.kkys14.com/","分类url":"/channel/{cateId}-----3-{catePg}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
-    "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
-    "图片":"默认--https://vres1.ipvav.cn/+data-original=\"/&&\"||搜索--https://vres1.ipvav.cn/vod1/vod/+/vod1/vod/&&\"",
-    "副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html",
-    "影片年代": "--.html\"*>&&</a","状态": "备注:</div>&&</div","导演": "导演:</div>&&</div","主演": "演员:</div>&&</div","简介": "detail-desc\">&&</p",
-    "线路数组": "source-item\">&&</a>[不包含:4K(高峰不卡)]","线路标题": "label\">&&<",
-    "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
-    "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
-
-{"key":"毒舌影视","name":"毒舌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "ext":{"主页url":"https://www.dushe6.app/","分类url":"/channel/{cateId}-----3-{catePg}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$6",
-    "数组": "默认--<div class=\"module-item&&</a>||搜索--/detail&&</a>","标题": "title\">&&</div",
-    "图片":"默认--https://vres1.ipvav.cn/+data-original=\"/&&\"||搜索--https://vres1.ipvav.cn/vod1/vod/+/vod1/vod/&&\"",
-    "副标题": "bottom\">&&</span||搜索--tags\">&&</div","链接": "默认--href=\"&&\"||搜索--/detail/+/&&.html\"+.html",
-    "影片年代": "--.html\"*>&&</a","状态": "备注:</div>&&</div","导演": "导演:</div>&&</div","主演": "演员:</div>&&</div","简介": "detail-desc\">&&</p",
-    "线路数组": "source-item\">&&</a>[不包含:4K(高峰不卡)]","线路标题": "label\">&&<",
-    "播放数组": "episode-list&&</div","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"",
-    "嗅探词": ".mp4#.m3u8","搜索请求头": "User-Agent$MOBILE_UA","搜索url": "/search?k={wd}&page={pg}","搜索模式": "1"}},
 
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
@@ -86,12 +55,15 @@
 //{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 //http://www.88tvs.org/	//{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 //易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
-{"key": "瓜子影视","name": "瓜子影视","type": 3,"api": "https://5282.kstore.space/py/p2.py","hide": 1},
-{"key": "佚名影视","name": "佚名影视","type": 3,"api": "https://5282.kstore.space/py/p3.py","hide": 1},
-{"key": "多多影视","name": "多多影视","type": 3,"api": "https://5282.kstore.space/py/p4.py","hide": 1},
-//多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       呱呱开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
- {"key": "西瓜影视","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
- {"key": "观观影视","name": "观观影视","type": 3,"api": "https://5282.kstore.space/js/s4.js","hide": 1},
+	
+{"name" : "短剧聚合","key" : "Bddj","type" : 3,"api" : "csp_BddjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
+	"jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
+{"name" : "围观短剧","key" : "Wgdj","type" : 3,"api" : "csp_WgdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
+{"name" : "喵喵短剧","key" : "Qmdj","type" : 3,"api" : "csp_QmdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
+ {"name" : "星星短剧","key" : "Xydj","type" : 3,"api" : "csp_XydjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
+      "jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 {"key":"河马短剧","name":"河马短剧","type": 3,"api": "./lib/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 
 {"key": "dj","name": "七猫短剧","type": 3,"api": "https://5282.kstore.space/js/duanju.js","danmaku": 0,"hide": 1},
@@ -121,17 +93,6 @@
 {"key":"极速资源","name":"极速影院","type": 1,"api": "https://jszyapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"filterable": 1,
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    
-
-{"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"bili","name":"哔哩哔哩","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/bili.js"},
-{"key":"爱奇艺","name":"爱奇艺","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/aqy.js"},
-{"key":"优酷","name":"优酷","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/yk.js"},
-{"key":"腾讯","name":"腾讯","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/tx.js"},
-{"key":"搜狗","name":"搜狗","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/sg.js"},
-{"key":"MGTV","name":"芒果","type":3,"playerType":"2","api":"https://tvbox.catvod.com/js/drpy2.min.js","ext":"https://tvbox.catvod.com/js/mgtv.js"},
-
-{"key":"zhuijuwu","name":"追剧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://zhuijuwu.com/frim/index{cateId}-{catePg}.html","分类":"大陆剧$13#电影$1#电视剧$2#综艺$3#动漫$4"}},	
 
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
