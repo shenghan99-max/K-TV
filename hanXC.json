@@ -26,9 +26,9 @@
 {"key": "多多影视","name": "多多影视","type": 3,"api": "https://5282.kstore.space/py/p4.py","hide": 1},
 //多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
 	
-{"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
+{"key":"热播","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 		
-{"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
+{"key":"天堂","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
 
 {"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$2#电影$1#大陆综艺$22#综艺$3#动漫$4"}},
 
