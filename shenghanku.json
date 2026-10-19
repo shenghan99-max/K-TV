@@ -1,7 +1,9 @@
 {
     "urls": [
 	       
-    {"url": "https://ghproxy.net/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/hanXC.json","name": "胜寒"},     
+    {"url": "https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/hanXC.json","name": "胜寒"},   
+
+	//	https://ghproxy.net/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/hanXC.json
     {"name": "瞄影视","url": "http://meowtv.cn/tv"},
     {"url": "https://raw.liucn.cc/box/m.json","name": "肥猫"},
     {"url": "http://fty.888484.xyz/tv","name": "饭太硬"},
