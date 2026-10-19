@@ -17,7 +17,7 @@
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 {"key": "py_金牌","name": "金牌影视","type": 3,"api": "./lib/金牌影视聚合.py","style": {"type": "rect","ratio": 1},
-            "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"}},
+            "ext": {"site": "https://www.gs4x7nq4.com/,https://chuang999.com/,https://www.vv3nwjk.com/"}},
 	
 {"key": "西瓜","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
 {"key":" 柚子","name": "柚子影视","type": 3,"api": "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
