@@ -1,8 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
-"spider":"./lib/spider.jar",
+  "spider":"./lib/spider.jar",
 //"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
@@ -42,6 +41,7 @@
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
 {"key":"jieys","name":"界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
+
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 	
@@ -54,7 +54,110 @@
 //{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 //http://www.88tvs.org/	//{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 //易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
-	
+
++        {
++            "key": "saohuo",
++            "name": "骚火┃直连",
++            "type": 3,
++            "searchable": 1,
++            "quickSearch": 1,
++            "playerType": "2",
++            "jar": "./jar/XBPQ1.jar;md5;6f9b5a1696e0a8164210fbe6ac9f4ccf",
++            "api": "csp_XBPQ",
++            "ext": {
++                "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html;;r1da",
++                "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
++                "ocr": "https://api.xhofe.top/ocr/b64/text",
++                "数组二次截取": "class=\"v_list\">&&</ul>",
++                "数组": "\"v_img\"&&/div>",
++                "标题": "title=\"&&\"",
++                "副标题": "v_note\"&&</div",
++                "跳转播放链接": "<iframe*src=\"&&\"",
++                "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
++                "三次跳转播放链接": "\"url\"*\"&&\""
++            }
++        },
+
+		{
+-			"key": "淘剧",
+-			"name": "淘剧┃BPQ",
+-			"type": 3,
+-			"api": "csp_XBPQ",
+-			"jar": "./jar/XBPQ1.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+-			"ext": {
+-				"主页url": "http://dyxz.tv",
+-				"数组": "<div class=\"stui-vodlist__box\">&&</div>",
+-				"图片": "data-original=\"&&\"",
+-				"标题": "title=\"&&\"",
+-				"链接": "href=\"&&\"",
+-				"嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/",
+-				"副标题": "<span class=\"pic-text text-right\">&&</span>",
+-				"搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
+-				"搜索模式": "1",
+-				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+-				"搜索图片": "data-original=\"&&\"",
+-				"搜索标题": "title=\"&&\"",
+-				"搜索链接": "href=\"&&\"",
+-				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+-				"搜索后缀": "/view/",
+-				"线路数组": "<a data-toggle=\"tab\"&&/a>",
+-				"线路标题": ">&&<",
+-				"播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+-				"影片年代": "年份：&&</p>",
+-				"影片地区": "地区：&&<span",
+-				"影片类型": "类型：&&</a>",
+-				"导演": "导演：&&</p>",
+-				"主演": "主演：&&</p>",
+-				"简介": "更新：&&</p>",
+-				"播放列表": "<a&&/a>",
+-				"播放标题": ">&&<",
+-				"播放链接": "href=\"&&\"",
+-				"免嗅": "0",
+-				"分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+-			}
+-		},
+
+		{
+-			"key": "348",
+-			"name": "348┃蓝光",
+-			"type": 3,
+-			"api": "csp_XBPQ",
+-			"jar": "./jar/XBPQ1.jar;md5;fa797d3f25f35eb3fea9a369bc55620f",
+-			"ext": {
+-				"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
+-				"站名": "348电影网",
+-				"主页url": "https://www.348z.com",
+-				"免嗅": "1",
+-				"嗅探词": ".m3u8#cn-beijing-data.aliyundrive.net#.mp4#alicloudccp.com",
+-				"导演": "导演：</span>&&</p",
+-				"主演": "主演：</span>&&</p",
+-				"副标题": "class=\"pack-prb hidden\">&&</span>",
+-				"简介": "简介：</span>&&</p>",
+-				"数组": "class=\"aplus-exp ecimgbor&&</a>",
+-				"图片": "data-original=\"&&\"",
+-				"标题": "title=\"&&\"",
+-				"线路名二次截取": "<div class=\"cf swiper-wrapper\">&& <div id=\"tagContent",
+-				"线路数组": "<a class=\"channelname swiper-slide&&/a>",
+-				"线路标题": "&nbsp;&&<",
+-				"播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36#Referer$https://www.348z.pro/",
+-				"播放数组": "class=\"content_playlist&&</ul>",
+-				"搜索url": "https://www.348z.com/vodsearch.html?wd={wd}",
+-				"搜索模式": "1",
+-				"搜索二次截取": "class=\"ec-search&&</ul",
+-				"搜索数组": "<a&&class=\"right cor3",
+-				"搜索图片": "data-original=\"&&\"",
+-				"搜索标题": "title=\"&&\"",
+-				"搜索副标题": "class=\"pack-prb\"&&</span",
+-				"搜索链接": "href=\"&&\"",
+-				"搜索链接前缀": "https://www.348z.com",
+-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+-				"分类url": "https://www.348z.com/vodshow/{area}/{class}/id/{cateId}/page/{catePg}/{year}.html;;m"
+-			}
+-		},
+
+
+
 {"name" : "短剧聚合","key" : "Bddj","type" : 3,"api" : "csp_BddjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
 	"jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 {"name" : "围观短剧","key" : "Wgdj","type" : 3,"api" : "csp_WgdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama",
