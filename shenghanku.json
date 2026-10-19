@@ -2,15 +2,13 @@
     "urls": [
 	       
     {"url": "https://ghproxy.net/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/hanXC.json","name": "胜寒"},     
-
+    {"name": "瞄影视","url": "http://meowtv.cn/tv"},
     {"url": "https://raw.liucn.cc/box/m.json","name": "肥猫"},
     {"url": "http://fty.888484.xyz/tv","name": "饭太硬"},
     {"name": "小米仓库","url": "https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json"},
-    {"name": "瞄影视","url": "http://meowtv.cn/tv"},
 	{"url": "https://raw.bgithub.xyz/PizazzGY/TVBox/refs/heads/main/api.json","name": "API"}, 
 	{"url": "http://我不是.摸鱼儿.top","name": "摸鱼"},  
     {"url": "http://home.jundie.top:81/top98.json","name": "俊佬"}
-
 
     ]
 }
