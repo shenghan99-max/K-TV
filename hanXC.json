@@ -16,14 +16,16 @@
 "sites":[
 	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-
+{"key": "py_金牌","name": "金牌影视","type": 3,"api": "./lib/金牌影视聚合.py","style": {"type": "rect","ratio": 1},
+            "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"}},
+	
 {"key": "西瓜","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
-{"key":" 柚子","name": "柚子影视","type": 3,"api" : "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
+{"key":" 柚子","name": "柚子影视","type": 3,"api": "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 {"key": "观观","name": "观观影视","type": 3,"api": "https://5282.kstore.space/js/s4.js","hide": 1},
 {"key": "瓜子","name": "瓜子影视","type": 3,"api": "https://5282.kstore.space/py/p2.py","hide": 1},
-{"key": "佚名","name": "佚名影视","type": 3,"api": "https://5282.kstore.space/py/p3.py","hide": 1},
 {"key": "多多影视","name": "多多影视","type": 3,"api": "https://5282.kstore.space/py/p4.py","hide": 1},
 //多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
+	
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 		
 {"key":"nrnnnr","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
@@ -41,11 +43,10 @@
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
-{"key": "jieys","name": "界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
+{"key":"jieys","name":"界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
-
-
+	
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
 {"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
