@@ -40,9 +40,22 @@
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
+{"key":"mervod","name":"米莱影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
+{"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
+
+
 {"key":"jieys","name":"界影视","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/MingHoChen/tvbox_cluntop/refs/heads/main/py/py_jieyingshi.py","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 
+{"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
+	
+//https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
 
+{"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
+
+{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#大陆综艺$23#短剧$20#动漫$4"}},	
+//{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
+//http://www.88tvs.org/	//{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
+//易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
 
 
 
@@ -84,17 +97,6 @@
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	    
 {"key":"360影视","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key": "莱米","name": "莱米┃BPQ","type": 3,"changeable": 1,"api": "csp_XBPQ","playerType": "2",
-"ext": {"站名": "来米影视","嗅探词": ".mp4?#&dis_t#vkey=#.m3u8","过滤词": "data.m3u8.in","主页url": "https://www.mervod.com/",
-           "副标题": "class=\"module-item-text\">&&</div","导演": "导演：&&</div","主演": "主演：&&</div","简介": "<p>&&</p>",
-           "搜索url": "https://www.mervod.com/vodsearch/-------------.html?wd={wd}",
-           "搜索模式": "1","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"",
-           "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://www.mervod.com/",
-           "搜索链接前缀": "https://www.mervod.com//","分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-           "分类url": "https://www.mervod.com//vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0"}},
-
-
 
 
 
