@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"./lib/spider.jar",
+  "spider":"https://7337.kstore.vip/xw/kjtw.jar",
 	
 //"spider":"https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar",
 //"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	  https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar
@@ -17,7 +17,7 @@
 "sites":[
 {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/drpy.js"},	
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-
+{"name": "豆瓣","key": "Douban","type": 3,"api": "csp_DoubanAmns", "jar": "https://7337.kstore.vip/xw/js/aw.png","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 1,"ext": "Douban"},  
 {"key": "西瓜","name": "西瓜影视","type": 3,"api": "https://5282.kstore.space/js/s1.js","hide": 1},
 {"key":" 柚子","name": "柚子影视","type": 3,"api": "csp_AppV7Amns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"ext" : "AppV7Xyz","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 {"key": "观观","name": "观观影视","type": 3,"api": "https://5282.kstore.space/js/s4.js","hide": 1},
