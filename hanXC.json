@@ -73,7 +73,7 @@
 {"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 	"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 {"key": "wsyzy","name": "无印资源","type": 1,"api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
-	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","电影","电视剧","动漫","韩剧","台剧","日剧","日韩动漫","港台综艺","日韩综艺","欧美综艺"]},
+	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩剧","台剧","日剧","日韩动漫","港台综艺","日韩综艺","欧美综艺"]},
 //wsyzy.cc  无水印资源
 	
 {"key": "魔都资源","name": "魔都影院","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
