@@ -28,35 +28,54 @@ CCTV-15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-16奥运,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-17农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
-CCTV-1综合,http://69.30.245.50/live/cctv1.m3u8
-CCTV-2财经,http://69.30.245.50/live/cctv2.m3u8
-CCTV-3综艺,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4国际,http://69.30.245.50/live/cctv4.m3u8
-CCTV-5体育,http://69.30.245.50/live/cctv5.m3u8
-CCTV-6电影,http://69.30.245.50/live/cctv6.m3u8
-CCTV-7军事,http://69.30.245.50/live/cctv7.m3u8
-CCTV-8电视剧,http://69.30.245.50/live/cctv8.m3u8
-CCTV-9纪录,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10科教,http://69.30.245.50/live/cctv10.m3u8
+CCTV-1综合,http://173.208.212.130:8181/720p/cctv1.m3u8
+CCTV-2财经,http://173.208.212.130:8181/720p/cctv2.m3u8
+CCTV-3综艺,http://173.208.212.130:8181/720p/cctv3.m3u8
+CCTV-4国际,http://173.208.212.130:8181/720p/cctv4.m3u8
+CCTV-5体育,http://173.208.212.130:8181/720p/cctv5.m3u8
+CCTV-5+赛事,http://173.208.212.130:8181/720p/cctv5p.m3u8
+CCTV-6电影,http://173.208.212.130:8181/720p/cctv6.m3u8
+CCTV-7军事,http://173.208.212.130:8181/720p/cctv7.m3u8
+CCTV-8电视剧,http://173.208.212.130:8181/720p/cctv8.m3u8
+CCTV-9纪录,http://173.208.212.130:8181/720p/cctv9.m3u8
+CCTV-10科教,http://173.208.212.130:8181/720p/cctv10.m3u8
+CCTV-11戏曲,http://173.208.212.130:8181/720p/cctv11.m3u8
+CCTV-12社会,http://173.208.212.130:8181/720p/cctv12.m3u8
+CCTV-13新闻,http://173.208.212.130:8181/720p/cctv13.m3u8
+CCTV-14少儿,http://173.208.212.130:8181/720p/cctv14.m3u8
+CCTV-15音乐,http://173.208.212.130:8181/720p/cctv15.m3u8
+CCTV-16奥运,http://173.208.212.130:8181/720p/cctv16.m3u8
+CCTV-17农村,http://173.208.212.130:8181/720p/cctv17.m3u8
 
-CCTV-1综合,http://69.30.246.194/live/cctv1.m3u8
-CCTV-2财经,http://69.30.246.194/live/cctv2.m3u8
-CCTV-3综艺,http://69.30.246.194/live/cctv3.m3u8
-CCTV-4国际,http://69.30.246.194/live/cctv4.m3u8
-CCTV-5体育,http://69.30.246.194/live/cctv5.m3u8
-CCTV-5+赛事,http://69.30.246.194/live/cctv5p.m3u8
-CCTV-6电影,http://69.30.246.194/live/cctv6.m3u8
-CCTV-7军事,http://69.30.246.194/live/cctv7.m3u8
-CCTV-8电视剧,http://69.30.246.194/live/cctv8.m3u8
-CCTV-9纪录,http://69.30.246.194/live/cctv9.m3u8
-CCTV-10科教,http://69.30.246.194/live/cctv10.m3u8
-CCTV-11戏曲,http://69.30.246.194/live/cctv11.m3u8
-CCTV-12社会,http://69.30.246.194/live/cctv12.m3u8
-CCTV-13新闻,http://69.30.246.194/live/cctv13.m3u8
-CCTV-14少儿,http://69.30.246.194/live/cctv14.m3u8
-CCTV-15音乐,http://69.30.246.194/live/cctv15.m3u8
-CCTV-16奥运,http://69.30.246.194/live/cctv16.m3u8
-CCTV-17农村,http://69.30.246.194/live/cctv17.m3u8
+CCTV第一剧场,http://173.208.212.130:8181/720p/dyjc.m3u8
+CCTV风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
+CCTV风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
+CCTV风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
+CCTV怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
+CCTV女性时尚,http://173.208.212.130:8181/720p/nxss.m3u8
+CCTV世界地理,http://173.208.212.130:8181/720p/sjdl.m3u8
+CCTV卫生健康,http://173.208.212.130:8181/720p/wsjk.m3u8
+CCTV央视文化精品,http://173.208.212.130:8181/720p/ysjp.m3u8
+CCTV央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
+
+CCTV-1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5+赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV-7军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-12社会,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV-13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV-15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-16奥运,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-17农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 
 CCTV-1综合,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -142,15 +161,33 @@ CCTV兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://ali-ml.cztv.com/channels/lantian/channel001/1080p.m3u8
-北京卫视4K,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 北京卫视4K,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OT E0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNf bGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8
+江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
+安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
+北京卫视,http://173.208.212.130:8181/720p/bjws.m3u8
+重庆卫视,http://173.208.212.130:8181/720p/cqws.m3u8
+东方卫视,http://173.208.212.130:8181/720p/dfws.m3u8
+东南卫视,http://173.208.212.130:8181/720p/dnws.m3u8
+广东卫视,http://173.208.212.130:8181/720p/gdws.m3u8
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
+河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
+山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
+深圳卫视,http://173.208.212.130:8181/720p/szws.m3u8
+天津卫视,http://173.208.212.130:8181/720p/tjws.m3u8
 
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8
+江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8
+东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
+南方卫视,http://74.91.26.218:82/live/nfws.m3u8
 
 港澳台外,#genre#
 
@@ -261,9 +298,9 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 潮妈辣婆,https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
 
 
-
 历年春晚,#genre#
-
+春晚2025年,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+春晚2025年,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 春晚2024年,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 春晚2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
