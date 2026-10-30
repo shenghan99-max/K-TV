@@ -1,11 +1,10 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
-"spider":"https://7337.kstore.vip/xw/kjtw.jar",
+  "spider":"https://7337.kstore.vip/xw/kjtw.jar",
 //	上面的spider采用  星微汇：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0  包括多地址金牌影视
 //"spider":"https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar",
-//"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	  https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar
+
 "lives": [{"name": "live","type": 0,
 "url": "./live.txt","playerType":2,
 //https://raw.bgithub.xyz/xiongjian83/TvBox/refs/heads/main/live.txt;http://rihou.cc:555/gggg.nzk/
@@ -28,6 +27,7 @@
 //wsyzy.cc  无水印资源
 {"key": "JPYS","name": "金牌影视","type": 3,"api": "csp_Jpys",
 	   "ext": "https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
+
 {"key":"热播","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 {"key": "咕噜1080p","name": "咕噜1080","type": 3,"api": "http://150.158.52.248/tgyg/py/咕噜1080p.py"},
 {"key": "csp_Gz360","name": "瓜子影视","type": 3,"timeout": 12,"searchable": 1,"quickSearch": 0,"jar": "http://154.37.215.249:8889/down/CbFspeifNxbT.jar","api": "csp_Gz360"},
@@ -58,15 +58,15 @@
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
-//{"key":"mervod","name":"猫放时光","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
+{"key":"mervod","name":"猫放时光","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
 //{"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
-//{"key":"天堂","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
-//{"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$2#电影$1#大陆综艺$22#综艺$3#动漫$4"}},
-//{"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
+{"key":"天堂","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
+{"key":"vx9d2","name":"影视大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html","分类": "国产剧$5#短剧$13#电视剧$2#电影$1#大陆综艺$22#综艺$3#动漫$4"}},
+{"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 //https://dl.keke1.app/	 https://www.keke1.app/  https://dl.dushe7.app/   https://www.dushe7.app  dushe02.com  dushe03.com  dushe04.com
-//{"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
-//{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#大陆综艺$23#短剧$20#动漫$4"}},	
-//{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
+{"key":"pianba","name":"片吧影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
+{"key": "枝枝影视","name": "枝枝影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://zzoc.cc/vodshow/{cateId}--time------{catePg}---.html","分类":"国产剧$13#电视剧$2#电影$1#大陆综艺$23#短剧$20#动漫$4"}},	
+{"key": "81影视","name": "八一影视","type": 3,"api": "csp_XBPQ","ext": {"分类url":"https://8scsi.com/by/{cateId}-{catePg}.html","分类": "国产剧$5#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"}},
 //http://www.88tvs.org/	//{"key":"厂长","name":"厂长影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 //易记域名CZ01.TV   https://cz01.vip/    推荐访问:www.czzymovie.com         WWW.CZZY77.COM
 //{"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq1.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
