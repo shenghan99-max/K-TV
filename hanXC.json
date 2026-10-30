@@ -136,6 +136,33 @@
 
 //https://9280.kstore.vip/newwex.json       "spider": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
 
+        {
+            "key": "咕噜1080p.py",
+            "name": "咕噜1080",
+            "type": 3,
+            "api": "http://150.158.52.248/tgyg/py/咕噜1080p.py"
+        },
+
+        {
+            "key": "csp_Gz360",
+            "name": "🍉瓜子｜影视",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "jar": "http://154.37.215.249:8889/down/CbFspeifNxbT.jar",
+            "api": "csp_Gz360"
+        },
+
+{"name":"📦①线┃秒播","key":"AppV7Fz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
+{"name":"📦④线┃秒播","key":"AppV7Xyz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
+{"name":"📦③线┃秒播","key":"AppV7Zjdr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
+{"name":"🚀瓜子┃秒播","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
+{"name":"📦⑤线┃秒播","key":"AppV7Xnm","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
+,{"name":"📦⑥线┃秒播","key":"AppV7Mtq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"},{"name":"📦⑦线┃秒播","key":"AppV7Llq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},{"name":"📦⑧线┃秒播","key":"AppV7Xsz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},{"name":"📦⑨线┃秒播","key":"AppV7Xhr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},{"name":"📦师兄┃秒播","key":"AppV7Dsx","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
+
+
+
 {"key": "SVIP影视","name": "SVIP影视","type": 3,"api": "csp_XBPQ",
          "ext": { "简介" :"剧情介绍:+detail-content\" style=*>&&</span>","首页":"0","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.vipdy.vip/s/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
