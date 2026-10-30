@@ -47,6 +47,17 @@
 {"key":"mervod","name":"猫放时光","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
 {"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
 {"key":"骚火","name":"影视 | 骚火[直连]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""},"jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"},
+        {
+            "key": "骚火影视",
+            "name": "骚火｜影视",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "playerType": 2,
+            "ext": "https://shdy2.com"
+        },
+
+ {"key": "SVIP影视","name": "SVIP｜影视","type": 3,"api": "csp_XBPQ",
+         "ext": { "简介" :"剧情介绍:+detail-content\" style=*>&&</span>","首页":"0","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.vipdy.vip/s/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 	
