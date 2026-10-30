@@ -27,7 +27,7 @@
 	"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩剧","台剧","日剧","日韩动漫","港台综艺","日韩综艺","欧美综艺"]},
 //wsyzy.cc  无水印资源
 {"key": "JPYS","name": "金牌影视","type": 3,"api": "csp_Jpys",
-	   "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},	
+	   "ext": "https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
 {"key":"热播","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 		
 {"key":"天堂","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
@@ -40,9 +40,7 @@
 //	上面的秒播采用：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0	
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
-//https://www.cfkj86.com/    http://www.yuhelover.com/    https://www.ghw9zwp5.com     https://chuang999.com/   https://helloux9w23vc.com/  www.y5yy.com  https://www.hkybqufgh.com/  http://www.guanyugekj.com/
-//https://gitee.com/senno/tvbox/raw/master/api.json;    https://m.sunnafh.com/     https://www.gs4x7nq4.com/ 	   https://ndhfiohk.com/   https://jieys.com/  https://www.vv3nwjk.com/     https://www.jpyy2.com/   
-//https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn
+
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
