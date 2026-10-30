@@ -29,6 +29,8 @@
 {"key": "JPYS","name": "金牌影视","type": 3,"api": "csp_Jpys",
 	   "ext": "https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
 {"key":"热播","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
+{"key": "咕噜1080p","name": "咕噜1080","type": 3,"api": "http://150.158.52.248/tgyg/py/咕噜1080p.py"},
+{"key": "csp_Gz360","name": "瓜子影视","type": 3,"timeout": 12,"searchable": 1,"quickSearch": 0,"jar": "http://154.37.215.249:8889/down/CbFspeifNxbT.jar","api": "csp_Gz360"},
 		
 {"key":"天堂","name":"电影天堂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.nrnnnr.com/fx/{cateId}-{catePg}.html","分类": "国产剧$13#短剧$29#电视剧$2#电影$1#大陆综艺$30#综艺$3#动漫$4"}},	
 
@@ -38,6 +40,15 @@
 {"key":"AppV7Xnm","name":"牛马秒播","type": 3,"api": "csp_AppV7Amns", "jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch": 1,"changeable": 1,"ext": "AppV7Xnm"},
 {"key":"AppV7Xhr","name":"华人秒播","type": 3,"api": "csp_AppV7Amns", "jar": "https://7337.kstore.vip/xw/js/aw.png","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AppV7Xhr"},
 //	上面的秒播采用：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0	
+//https://9763.kstore.vip/aowu.json       {"spider":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
+
+{"name":"1线秒播","key":"AppV7Fz","type":3,"api":"csp_AppV7Amns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
+{"name":"2线秒播","key":"AppV7Zjdr","type":3,"api":"csp_AppV7Amns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
+{"name":"3线秒播","key":"AppV7Llq","type":3,"api":"csp_AppV7Amns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
+{"name":"4线秒播","key":"AppV7Xsz","type":3,"api":"csp_AppV7Amns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
+{"name":"师兄秒播","key":"AppV7Dsx","type":3,"api":"csp_AppV7Amns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
+{"name":"瓜子秒播","key":"Guazi","type":3,"api":"csp_GuaziAmns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
+
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 {"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 
@@ -46,39 +57,12 @@
 
 {"key":"mervod","name":"猫放时光","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
 //{"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
- {
-            "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiYiYsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+ 
+{"key": "WexAiYiYs","name": "伊影秒播","type": 3,"api": "csp_WexAiYiYsGuard","searchable": 1,"quickSearch": 1,"changeable": 0},
 
-{
-            "key": "WexAiIkanBot",
-            "name": "🎇爱看┃采集🎇",
-            "type": 3,
-            "api": "csp_WexAiIkanBotGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+{"key": "WexAiIkanBot","name": "爱看采集","type": 3,"api": "csp_WexAiIkanBotGuard","searchable": 1,"quickSearch": 1,"changeable": 0},
 
-{
-            "key": "AppV7 | 零零七影视",
-            "name": "💥零七┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAppV7Guard",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "config": "AppV7Llq",
-                "proxyImg": false
-            },
-            "timeout": 120
-        }, 
+{"key": "AppV7 | 零零七影视","name": "💥零七┃秒播💥","type": 3,"api": "csp_WexAppV7Guard","searchable": 1,"changeable": 0,"ext": {"config": "AppV7Llq","proxyImg": false},"timeout": 120}, 
 
  {
             "key": "AppV7 | 蒙太奇",
@@ -135,31 +119,6 @@
         }, 
 
 //https://9280.kstore.vip/newwex.json       "spider": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
-
-        {
-            "key": "咕噜1080p.py",
-            "name": "咕噜1080",
-            "type": 3,
-            "api": "http://150.158.52.248/tgyg/py/咕噜1080p.py"
-        },
-
-        {
-            "key": "csp_Gz360",
-            "name": "🍉瓜子｜影视",
-            "type": 3,
-            "timeout": 12,
-            "searchable": 1,
-            "quickSearch": 0,
-            "jar": "http://154.37.215.249:8889/down/CbFspeifNxbT.jar",
-            "api": "csp_Gz360"
-        },
-
-{"name":"📦①线┃秒播","key":"AppV7Fz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
-{"name":"📦④线┃秒播","key":"AppV7Xyz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
-{"name":"📦③线┃秒播","key":"AppV7Zjdr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
-{"name":"🚀瓜子┃秒播","key":"Guazi","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"name":"📦⑤线┃秒播","key":"AppV7Xnm","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
-,{"name":"📦⑥线┃秒播","key":"AppV7Mtq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"},{"name":"📦⑦线┃秒播","key":"AppV7Llq","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},{"name":"📦⑧线┃秒播","key":"AppV7Xsz","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},{"name":"📦⑨线┃秒播","key":"AppV7Xhr","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},{"name":"📦师兄┃秒播","key":"AppV7Dsx","type":3,"api":"csp_AppV7Amns","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
 
 
 
