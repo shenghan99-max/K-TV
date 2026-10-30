@@ -44,8 +44,8 @@
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
-{"key":"mervod","name":"米莱影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
-//{"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
+{"key":"mervod","name":"猫放时光","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.mervod.com/vodtype/{cateId}-{catePg}.html","分类": "短剧$5#连续剧$2#电影$1#综艺$4#动漫$3"}},
+{"key":"shdy","name":"骚火电影","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://shdy2.com/list/{cateId}-{catePg}.html","分类": "大陆剧$20#电视剧$2#电影$1"}},
 
 {"key":"fdoruw","name":"全民影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"https://www.fdoruw.com/xingchen/{cateId}-{catePg}.html","分类":"国产剧$13#短剧$29#电影$1#电视剧$1#综艺$3#动漫$4"}},
 	
@@ -60,7 +60,7 @@
 
 
 {"key":"iysdq","name":"影院大全","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.iysdq1.com/vodtype/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}}, 
-//https://www.iysdq.me/  
+//https://www.iysdq.me/  麦田影院https://mtyy.tv/   https://www.mtyy5.cc/
 
 {"key" : "Bddj","name":"短剧聚合","type" : 3,"api" : "csp_BddjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
 {"key" : "Wgdj","name":"围观短剧","type" : 3,"api" : "csp_WgdjAmns","searchable" : 1,"quickSearch" : 1,"changeable" : 1,"genre" : "shortdrama","jar" : "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png"},
