@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-  "spider":"./lib/SHTV.jar",
+  "spider":"https://github.catvod.com/https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/SHTV.jar",
 //	上面的spider采用 https://7337.kstore.vip/xw/kjtw.jar 星微汇：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0  包括多地址金牌影视
 //"spider":"https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar",
 //"spider":"https://lz.qaiu.top/d/lz/ijfdS2y7122j",	  https://raw.githubusercontent.com/shenghan99-max/K-TV/refs/heads/main/lib/spider.jar
