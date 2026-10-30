@@ -49,8 +49,8 @@
 //	上面的秒播采用：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0	
 //https://9763.kstore.vip/aowu.json       {"spider":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
 
-{"key": "WexAiYiYs","name":"伊影秒播","type": 3,"api": "csp_WexAiYiYs","jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png","searchable": 1,"quickSearch": 1,"changeable": 0},
-{"key": "WexAiIkanBot","name":"爱看采集","type": 3,"api": "csp_WexAiIkanBo","jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png","searchable": 1,"quickSearch": 1,"changeable": 0},
+{"key":"YiYs","name":"伊影秒播","type": 3,"api": "csp_WexAiYiYsGuard","jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png","searchable": 1,"quickSearch": 1,"changeable": 0},
+{"key":"IkanBot","name":"爱看采集","type": 3,"api": "csp_WexAiIkanBotGuard","jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"name":"爱看采集","key":"AiBot","type":3,"api":"csp_AiBotAmns","jar": "https://7337.kstore.vip/xw/js/aw.png","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
