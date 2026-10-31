@@ -1,8 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-
-"spider":"./HHTV.jar",
+spider":"./lib/XBPQ.jar",
+//"spider":"./HHTV.jar",
 //	上面的spider采用  星微汇：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0  包括多地址金牌影视
 
 "lives": [{"name": "live","type": 0,
@@ -13,11 +13,11 @@
 "sites":[
   
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key": "西瓜","name": "西瓜影视","type": 3,"api": "./js/s1.js","hide": 1},
-{"key": "观观","name": "观观影视","type": 3,"api": "./js/s4.js","hide": 1},
-{"key": "瓜子","name": "瓜子影视","type": 3,"api": "./js/p2.py","hide": 1},
+{"key": "西瓜","name": "西瓜影视","type": 3,"api": "./lib/s1.js","hide": 1},
+{"key": "观观","name": "观观影视","type": 3,"api": "./lib/s4.js","hide": 1},
+{"key": "瓜子","name": "瓜子影视","type": 3,"api": "./lib/p2.py","hide": 1},
 {"key":"Guazi","name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key": "多多","name": "多多影视","type": 3,"api": "./js/p4.py","hide": 1},
+{"key": "多多","name": "多多影视","type": 3,"api": "./lib/p4.py","hide": 1},
 //多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
 
 {"key":"SVIP影视","name": "SVIP影视","type": 3,"api": "csp_XBPQ",
@@ -30,21 +30,21 @@
 "ext":"https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
 
 {"key":"热播影视","name":"热播影视","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
-{"key":"咕噜影视","name":"咕噜影视","type": 3,"api": "./js/咕噜1080p.py"},
+{"key":"咕噜影视","name":"咕噜影视","type": 3,"api": "./lib/咕噜1080p.py"},
 
-{"key":"AppV7Xyz","name":"小柚秒播","type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
-{"key":"AppV7Xnm","name":"牛马秒播","type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
-{"key":"AppV7Xhr","name":"华人秒播","type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
-{"key":"AppV7Mtq","name":"1线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"}, 
-{"key":"AppV7Fz", "name":"2线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
-{"key":"AppV7Zjdr","name":"3线秒播","type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
-{"key":"AppV7Llq","name":"4线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
-{"key":"AppV7Xsz","name":"5线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
-{"key":"AppV7Dsx","name":"6线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
-{"key":"AppV7Xy", "name":"7线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
-{"key":"Guazi",   "name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key":"Dubk",    "name":"杜北秒播","type":3,"api":"csp_DubkAmns", "jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},	
-{"key":"AiBot",   "name":"爱看采集","type":3,"api":"csp_AiBotAmns","jar":"./js/aw.png","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"AppV7Xyz","name":"小柚秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
+{"key":"AppV7Xnm","name":"牛马秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
+{"key":"AppV7Xhr","name":"华人秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
+{"key":"AppV7Mtq","name":"1线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"}, 
+{"key":"AppV7Fz", "name":"2线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
+{"key":"AppV7Zjdr","name":"3线秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
+{"key":"AppV7Llq","name":"4线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
+{"key":"AppV7Xsz","name":"5线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
+{"key":"AppV7Dsx","name":"6线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
+{"key":"AppV7Xy", "name":"7线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
+{"key":"Guazi",   "name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
+{"key":"Dubk",    "name":"杜北秒播","type":3,"api":"csp_DubkAmns", "jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},	
+{"key":"AiBot",   "name":"爱看采集","type":3,"api":"csp_AiBotAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1},
 
 //	上面的秒播采用：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0	   "jar": "https://7337.kstore.vip/xw/js/aw.png",
 //https://9763.kstore.vip/aowu.json        "spider":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
@@ -73,14 +73,14 @@
 //https://www.iysdq.me/  麦田影院https://mtyy.tv/   https://www.mtyy5.cc/
 //{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 
-{"key":"Bddj","name":"短剧聚合","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./js/aw.png"},
-{"key":"Hema","name":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./js/aw.png"},
-{"key":"Wgdj","name":"围观短剧","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./js/aw.png"},
-{"key":"Qmdj","name":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./js/aw.png"},
-{"key":"Xydj","name":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./js/aw.png"},
+{"key":"Bddj","name":"短剧聚合","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
+{"key":"Hema","name":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
+{"key":"Wgdj","name":"围观短剧","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
+{"key":"Qmdj","name":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
+{"key":"Xydj","name":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
 {"key":"HMdj","name":"河马短剧","type":3,"api": "./js/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-{"key":"Catdj","name":"聚合短剧","type":3,"api": "./js/duanju_juhe.js","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key":"qmdj","name": "七猫短剧","type":3,"api": "./js/duanju.js","danmaku": 0,"hide": 1},
+{"key":"Catdj","name":"聚合短剧","type":3,"api": "./lib/duanju_juhe.js","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key":"qmdj","name": "七猫短剧","type":3,"api": "./lib/duanju.js","danmaku": 0,"hide": 1},
 
 
 {"key": "魔都资源","name": "魔都影院","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
