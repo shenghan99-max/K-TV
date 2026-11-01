@@ -13,14 +13,14 @@
 "sites":[
   
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key": "西瓜","name": "西瓜影视","type": 3,"api": "./lib/s1.js","hide": 1},
-{"key": "观观","name": "观观影视","type": 3,"api": "./lib/s4.js","hide": 1},
-{"key": "瓜子","name": "瓜子影视","type": 3,"api": "./lib/p2.py","hide": 1},
+{"key":"西瓜","name":"西瓜影视","type":3,"api":"./lib/s1.js","hide": 1},
+{"key":"观观","name":"观观影视","type":3,"api":"./lib/s4.js","hide": 1},
+{"key":"瓜子","name":"瓜子影视","type":3,"api":"./lib/p2.py","hide": 1},
 {"key":"Guazi","name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key": "多多","name": "多多影视","type": 3,"api": "./lib/p4.py","hide": 1},
+{"key": "多多","name":"多多影视","type":3,"api":"./lib/p4.py","hide": 1},
 //多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
 
-{"key":"SVIP影视","name": "SVIP影视","type": 3,"api": "csp_XBPQ",
+{"key":"SVIP影视","name": "SVIP影视","type": 3,"api": "csp_XBPQ","jar":"./lib/XBPQ.jar",
          "ext": { "简介" :"剧情介绍:+detail-content\" style=*>&&</span>","首页":"0","副标题":"pic-text text-right\">&&</span>","分类url":"https://www.vipdy.vip/s/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},
 
 {"key": "wsyzy","name": "无印资源","type": 1,"api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -44,7 +44,7 @@
 {"key":"AppV7Xy", "name":"7线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
 {"key":"Guazi",   "name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
 {"key":"Dubk",    "name":"杜北秒播","type":3,"api":"csp_DubkAmns", "jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},	
-{"key":"AiBot",   "name":"爱看采集","type":3,"api":"csp_AiBotAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"AiBot",   "name":"爱看采集","type":3,"api":"csp_AiBotAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AiBot"},
 
 //	上面的秒播采用：https://7337.kstore.vip/xw/%E6%B5%8B%E8%AF%95%E5%8B%BF%E4%BC%A0	   "jar": "https://7337.kstore.vip/xw/js/aw.png",
 //https://9763.kstore.vip/aowu.json        "spider":"https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png;md5;d93049ba6615eab01b69a52ff03c02c9",
@@ -73,12 +73,12 @@
 //https://www.iysdq.me/  麦田影院https://mtyy.tv/   https://www.mtyy5.cc/
 //{"key":"xiaozhen","name":"小镇影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},	
 
-{"key":"Bddj","name":"短剧聚合","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
-{"key":"Hema","name":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
-{"key":"Wgdj","name":"围观短剧","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
-{"key":"Qmdj","name":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
-{"key":"Xydj","name":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar" : "./lib/aw.png"},
-{"key":"HMdj","name":"河马短剧","type":3,"api": "./js/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
+{"key":"Bddj","name": "短剧聚合","type":3,"api":"csp_BddjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar":"./lib/aw.png"},
+{"key":"Hema","name": "盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar":"./lib/aw.png"},
+{"key":"Wgdj","name": "围观短剧","type":3,"api":"csp_WgdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar":"./lib/aw.png"},
+{"key":"Qmdj","name": "喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar":"./lib/aw.png"},
+{"key":"Xydj","name": "星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"quickSearch": 1,"changeable":1,"genre":"shortdrama","jar":"./lib/aw.png"},
+{"key":"HMdj","name": "河马短剧","type":3,"api": "./js/河马短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key":"Catdj","name":"聚合短剧","type":3,"api": "./lib/duanju_juhe.js","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"qmdj","name": "七猫短剧","type":3,"api": "./lib/duanju.js","danmaku": 0,"hide": 1},
 
