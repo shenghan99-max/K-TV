@@ -13,16 +13,16 @@
   
 {"key":"豆豆","name":"胜寒提醒您：🚫请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key":"西瓜","name":"西瓜影视","type":3,"api":"./lib/s1.js","hide": 1},
-{"key":"观观","name":"观观影视","type":3,"api":"./lib/s4.js","hide": 1},
-{"key":"瓜子","name":"瓜子影视","type":3,"api":"./lib/p2.py","hide": 1},
-{"key":"Guazi","name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key":"多多","name":"多多影视","type":3,"api":"./lib/p4.py","hide": 1},
+{"key":"JPYS","name":"金牌影视","type":3,"api":"csp_Jpys","ext":"https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
+
+{"key":"观观ys","name":"观观影视","type":3,"api":"./lib/s4.js","hide": 1},
+{"key":"瓜子ys","name":"瓜子影视","type":3,"api":"./lib/p2.py","hide": 1},
+{"key":"Guazii","name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
+//{"key":"多多","name":"多多影视","type":3,"api":"./lib/p4.py","hide": 1},
+//{"key":"西瓜","name":"西瓜影视","type":3,"api":"./lib/s1.js","hide": 1},	
 //多多影视：https://duoduosdf12223234334.top/  西瓜影视：www.xiguadh.com   瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
 {"key": "wsyzy","name": "无印资源","type": 1,"api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["爽文短剧","国产剧","大陆综艺", "国产动漫","韩剧","台剧","日剧","日韩动漫","港台综艺","日韩综艺","欧美综艺"]},
 //wsyzy.cc  无水印资源
-{"key":"JPYS","name":"金牌影视","type":3,"api":"csp_Jpys","ext":"https://m.610pkea.com,https://www.gs4x7nq4.com,http://www.yuhelover.com,https://www.vv3nwjk.com/,https://0bv77aw.com,https://chuang999.com,https://helloux9w23vc.com/,https://y2s52n7.com,https://m.sizhengxt.com,https://jysct15.com/,https://www.sunnafh.com,www.y5yy.com,https://m.9zhoukj.com,https://www.guanyugekj.com,https://m.jiabaide.cn,https://www.cfkj86.com,https://ndhfiohk.com,https://yvyeigh.com,https://jieys.com,https://www.vv3nwjk.com,https://www.jpyy2.com,https://www.sizhengxt.com,https://www.jiabaide.cn/,https://www.tjrongze.com"},	
 {"key":"RBYS","name":"热播影视","type":3,"api":"csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"}},
 {"key":"GLYS","name":"咕噜影视","type":3,"api":"./lib/咕噜1080p.py"},
 {"key": "cat_骚火","name": "骚火视频","type": 3,"api": "./lib/cat_骚火.js","style": {"type": "rect","ratio": 1}, "changeable": 1},	
@@ -57,6 +57,7 @@
 //{"key":"drpy_js_金牌1","name":"金牌影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视.js"},
 //{"key":"drpy_js_金牌","name":"金牌秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/金牌影视2.js"},
 
+	
 //https://fmbox.cc       电影先生：https://dyxs39.com/   DianYing.indyxs.medyxs.dedyxs32.comdyxs33.comdyxs34.comdyxs37.comdyxs38.comdyxs39.com  
 //https://m66.yanjiusuo1137.top/   https://shujiazuoye.org/   ①yyyyy.tv ② yyyyy.at ③yyyyy.in ④ yyyyy.la ⑤ yyyyy.sbs   https://aogv.tgcoohh7y7m.com/国色天香/
 
@@ -101,7 +102,7 @@
 	 "categories": ["短剧","内地剧","大陆综艺","中国动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","记录片","台湾剧","日剧","韩剧","马泰剧","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 //https://jszyapi.com/   www.jisuzy.com    www.jisuzy.tv   www.jisuziyuan.com   www.jszy666.com         https://jisjiexi.com/play/?url=	  
 
-{"key": "csp_hanhan","name": "🚫请勿相信影片中任何广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key": "csp_hanhan","name": "请勿相信影片中任何广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 	
