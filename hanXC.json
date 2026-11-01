@@ -13,26 +13,7 @@
 "sites":[
   
 {"key":"豆豆","name":"胜寒提醒您：请勿相信视频中广告！","type":3,"api":"csp_Douban","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
-{"key":"西瓜","name":"西瓜影视","type":3,"api":"./lib/s1.js","hide": 1},
-{"key":"观观","name":"观观影视","type":3,"api":"./lib/s4.js","hide": 1},
-{"key":"瓜子","name":"瓜子影视","type":3,"api":"./lib/p2.py","hide": 1},
-{"key":"Guazi","name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key":"多多","name":"多多影视","type":3,"api":"./lib/p4.py","hide": 1},
-//多多影视：https://duoduosdf12223234334.top/        西瓜影视：www.xiguadh.com       瓜子开始到观观用JAR：https://gitee.com/FuMua/581/blob/master/mobile.jar
-
-{"key":"AppV7Xyz", "name":"小柚秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xyz"},
-{"key":"AppV7Xnm", "name":"牛马秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xnm"},
-{"key":"AppV7Xhr", "name":"华人秒播","type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xhr"},
-{"key":"AppV7Mtq", "name":"1线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Mtq"}, 
-{"key":"AppV7Fz",  "name":"2线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Fz"},
-{"key":"AppV7Zjdr","name":"3线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Zjdr"},
-{"key":"AppV7Llq", "name":"4线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Llq"},
-{"key":"AppV7Xsz", "name":"5线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xsz"},
-{"key":"AppV7Dsx", "name":"6线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Dsx"},
-{"key":"AppV7Xy",  "name":"7线秒播", "type":3,"api":"csp_AppV7Amns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AppV7Xy"},
-{"key":"Guazi",    "name":"瓜子秒播","type":3,"api":"csp_GuaziAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Guazi"},
-{"key":"Dubk",     "name":"杜北秒播","type":3,"api":"csp_DubkAmns", "jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"Dubk"},	
-{"key":"AiBot",    "name":"爱看采集","type":3,"api":"csp_AiBotAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AiBot"},
+:3,"api":"csp_AiBotAmns","jar":"./lib/aw.png","searchable":1,"quickSearch":1,"changeable":1,"ext":"AiBot"},
   
 
 {"key": "csp_hanhan","name": "请勿相信影片广告！","type": 1,"playerType": 2,"api": "","searchable": 1,"quickSearch": 1,"filterable": 1}
@@ -78,3 +59,5 @@
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name": "磁力","hosts": ["magnet"],"regex": ["更多","社 區","x u u","最 新","直 播","更 新","社 区","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
+]
+}
